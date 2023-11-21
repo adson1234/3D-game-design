@@ -1,0 +1,47 @@
+﻿已經開始建置於 2017/11/2 上午 07:00:33。
+     1>節點 2 (ClCompile 目標) 上的專案 "D:\3d quiz2 demo\3DGP_Ex02_0656124\program_exercises\3DGP_201709_02_Ex_Space_Template\demo_hello.vcxproj"。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(298,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\include\OGRE /I..\..\include\OIS /I..\..\boost_1_42 /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source\TutorialApplication.cpp
+         TutorialApplication.cpp
+     1>source\TutorialApplication.cpp(16): warning C4305: '正在初始化' : 從 'double' 轉換為 'const float'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(57): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(203): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(203): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(203): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(236): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(236): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(236): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(243): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(243): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(243): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(275): warning C4305: '引數' : 從 'double' 轉換為 'Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(322): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(322): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(322): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(324): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(324): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(324): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(386): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(386): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(386): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(388): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(388): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(388): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(394): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(394): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(394): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(396): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(396): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(396): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(405): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(405): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(405): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(407): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>source\TutorialApplication.cpp(407): warning C4305: '引數' : 從 'double' 轉換為 'const Ogre::Real'，是由較大的型別轉換為較小的型別，可能導致資料遺失
+     1>專案 "D:\3d quiz2 demo\3DGP_Ex02_0656124\program_exercises\3DGP_201709_02_Ex_Space_Template\demo_hello.vcxproj" (ClCompile 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:01:24.34
